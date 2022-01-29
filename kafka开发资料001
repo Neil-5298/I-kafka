@@ -2,3 +2,15 @@
 
 客户端网址一
 https://docs.confluent.io/platform/current/tutorials/examples/clients/docs/c.html
+
+安装介绍网址一
+https://github.com/edenhill/librdkafka/blob/master/README.md#instructions
+
+
+If you don’t want to use Confluent Cloud, you can also use this tutorial with a Kafka cluster 
+running on your local host or any other remote server.
+创建local host的教程网址
+https://docs.confluent.io/platform/current/quickstart/ce-docker-quickstart.html#quickstart
+
+https://docs.confluent.io/platform/current/installation/installing_cp/deb-ubuntu.html
+
